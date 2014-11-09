@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>36F4DDED-22E8-403F-ACAC-1907EF460A1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Twappy Birds</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>182ACFD5EAAC3EBC36C164BC31ED6FBC9C35D5B3</key>
+		<string>github.com:vishyp/twitter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Twappy Birds.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>182ACFD5EAAC3EBC36C164BC31ED6FBC9C35D5B3</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:vishyp/twitter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>182ACFD5EAAC3EBC36C164BC31ED6FBC9C35D5B3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>182ACFD5EAAC3EBC36C164BC31ED6FBC9C35D5B3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Twappy%20Birds</string>
+		</dict>
+	</array>
+</dict>
+</plist>
